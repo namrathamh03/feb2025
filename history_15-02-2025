@@ -1,0 +1,16 @@
+   33  git remote -v
+   34  git remote add origin https://github.com/namrathamh03/feb2025.git 
+   35  git remote -v
+   36  git push -u origin master
+   37  git piush -u origin main
+   38  git push -u origin main
+   39  vi namratha.txt
+   40  git staus
+   41  git status
+   42  git add .
+   43  git status
+   44   git commit -m "namratha"
+   45  git status
+   46  git remote -u 
+   47  git remote -v
+   48  git push -u origin main
