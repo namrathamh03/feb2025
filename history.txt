@@ -1,0 +1,16 @@
+    3  git --version
+    4  pwd
+    5  mkdir namratha
+    6  pwd
+    7  ls
+    8  cd namratha
+    9  sudo port install bash Copy
+   10  brew install git
+   11  cd /etc/shells
+   12  cd ..
+   13  pwd
+   14  cd /etc/shells
+   15  pwd
+   16  sudo echo "/bin/bash" >> /etc/shells
+   17  sudo -i
+   18  history
